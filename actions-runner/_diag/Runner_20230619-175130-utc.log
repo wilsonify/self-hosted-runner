@@ -1,0 +1,272 @@
+[2023-06-19 17:51:30Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Root': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner'
+[2023-06-19 17:51:30Z INFO HostContext] Well known config file 'Credentials': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials'
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Root': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner'
+[2023-06-19 17:51:30Z INFO HostContext] Well known config file 'Runner': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.runner'
+[2023-06-19 17:51:30Z INFO Listener] Runner is built for Linux (X64) - linux-x64.
+[2023-06-19 17:51:30Z INFO Listener] RuntimeInformation: Linux 5.19.0-41-generic #42~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Apr 18 17:40:00 UTC 2.
+[2023-06-19 17:51:30Z INFO Listener] Version: 2.305.0
+[2023-06-19 17:51:30Z INFO Listener] Commit: 6cbe663c239dba8a109c6ac2801b25f1ed7c51e9
+[2023-06-19 17:51:30Z INFO Listener] Culture: en-US
+[2023-06-19 17:51:30Z INFO Listener] UI Culture: en-US
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Root': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner'
+[2023-06-19 17:51:30Z INFO Listener] Validating directory permissions for: '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner'
+[2023-06-19 17:51:30Z INFO CommandLineParser] Parse
+[2023-06-19 17:51:30Z INFO CommandLineParser] Parsing 1 args
+[2023-06-19 17:51:30Z INFO CommandLineParser] parsing argument
+[2023-06-19 17:51:30Z INFO CommandLineParser] HasArgs: False
+[2023-06-19 17:51:30Z INFO CommandLineParser] Adding Command: run
+[2023-06-19 17:51:30Z INFO Listener] Arguments parsed
+[2023-06-19 17:51:30Z INFO Runner] ExecuteCommand
+[2023-06-19 17:51:30Z INFO ConfigurationStore] currentAssemblyLocation: /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin/Runner.Listener.dll
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 17:51:30Z INFO ConfigurationStore] binPath: /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Root': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner'
+[2023-06-19 17:51:30Z INFO ConfigurationStore] RootFolder: /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Root': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner'
+[2023-06-19 17:51:30Z INFO HostContext] Well known config file 'Runner': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.runner'
+[2023-06-19 17:51:30Z INFO ConfigurationStore] ConfigFilePath: /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.runner
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Root': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner'
+[2023-06-19 17:51:30Z INFO HostContext] Well known config file 'Credentials': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials'
+[2023-06-19 17:51:30Z INFO ConfigurationStore] CredFilePath: /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Root': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner'
+[2023-06-19 17:51:30Z INFO HostContext] Well known config file 'MigratedCredentials': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_migrated'
+[2023-06-19 17:51:30Z INFO ConfigurationStore] MigratedCredFilePath: /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_migrated
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Root': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner'
+[2023-06-19 17:51:30Z INFO HostContext] Well known config file 'Service': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.service'
+[2023-06-19 17:51:30Z INFO ConfigurationStore] ServiceConfigFilePath: /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.service
+[2023-06-19 17:51:30Z INFO CommandSettings] Flag 'help': 'False'
+[2023-06-19 17:51:30Z INFO CommandSettings] Flag 'version': 'False'
+[2023-06-19 17:51:30Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-06-19 17:51:30Z INFO CommandSettings] Flag 'check': 'False'
+[2023-06-19 17:51:30Z INFO CommandSettings] Command 'configure': 'False'
+[2023-06-19 17:51:30Z INFO CommandSettings] Command 'remove': 'False'
+[2023-06-19 17:51:30Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-06-19 17:51:30Z INFO ConfigurationManager] LoadSettings
+[2023-06-19 17:51:30Z INFO ConfigurationStore] IsConfigured()
+[2023-06-19 17:51:30Z INFO ConfigurationStore] IsConfigured: True
+[2023-06-19 17:51:30Z INFO ConfigurationManager] Is configured: True
+[2023-06-19 17:51:30Z INFO ConfigurationStore] Read setting file: 295 chars
+[2023-06-19 17:51:30Z INFO ConfigurationManager] Settings Loaded
+[2023-06-19 17:51:30Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-06-19 17:51:30Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-06-19 17:51:30Z INFO CommandSettings] Command 'run': 'True'
+[2023-06-19 17:51:30Z INFO ConfigurationStore] IsConfigured()
+[2023-06-19 17:51:30Z INFO ConfigurationStore] IsConfigured: True
+[2023-06-19 17:51:30Z INFO ConfigurationManager] Is configured: True
+[2023-06-19 17:51:30Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-06-19 17:51:30Z INFO Runner] Set runner startup type - Manual
+[2023-06-19 17:51:30Z INFO CommandSettings] Flag 'once': 'False'
+[2023-06-19 17:51:30Z INFO CommandSettings] Flag 'once': 'False'
+[2023-06-19 17:51:30Z INFO Runner] RunAsync
+[2023-06-19 17:51:30Z INFO ConfigurationManager] LoadSettings
+[2023-06-19 17:51:30Z INFO ConfigurationStore] IsConfigured()
+[2023-06-19 17:51:30Z INFO ConfigurationStore] IsConfigured: True
+[2023-06-19 17:51:30Z INFO ConfigurationManager] Is configured: True
+[2023-06-19 17:51:30Z INFO ConfigurationManager] Settings Loaded
+[2023-06-19 17:51:30Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "thom-asus",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/zyKKJ24ydiARkUg7LXufcYVhxbLdKxvFBenjsBwOVsXGma09ut",
+  "GitHubUrl": "https://github.com/wilsonify/wilsonify.github.io",
+  "WorkFolder": "_work"
+}
+[2023-06-19 17:51:30Z INFO MessageListener] Loading Credentials
+[2023-06-19 17:51:30Z INFO ConfigurationStore] HasCredentials()
+[2023-06-19 17:51:30Z INFO ConfigurationStore] stored True
+[2023-06-19 17:51:30Z INFO CredentialManager] GetCredentialProvider
+[2023-06-19 17:51:30Z INFO CredentialManager] Creating type OAuth
+[2023-06-19 17:51:30Z INFO CredentialManager] Creating credential type: OAuth
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 17:51:30Z INFO HostContext] Well known directory 'Root': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner'
+[2023-06-19 17:51:30Z INFO HostContext] Well known config file 'RSACredentials': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_rsaparams'
+[2023-06-19 17:51:30Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2023-06-19 17:51:30Z INFO MessageListener] Attempt to create session.
+[2023-06-19 17:51:30Z INFO MessageListener] Connecting to the Runner Server...
+[2023-06-19 17:51:30Z INFO RunnerServer] EstablishVssConnection
+[2023-06-19 17:51:30Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-06-19 17:51:30Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-19 17:51:30Z INFO RunnerServer] EstablishVssConnection
+[2023-06-19 17:51:30Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-06-19 17:51:30Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-19 17:51:30Z INFO RunnerServer] EstablishVssConnection
+[2023-06-19 17:51:30Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-06-19 17:51:30Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-06-19 17:51:31Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-19 17:51:31Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-19 17:51:31Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-06-19 17:51:31Z INFO MessageListener] VssConnection created
+[2023-06-19 17:51:31Z INFO Terminal] WRITE LINE: 
+[2023-06-19 17:51:31Z INFO Terminal] WRITE LINE: 
+[2023-06-19 17:51:32Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2023-06-19 17:51:32Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2023-06-19 17:51:32Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-06-19 17:51:32Z INFO MessageListener] Session created.
+[2023-06-19 17:51:32Z INFO Terminal] WRITE LINE: Current runner version: '2.305.0'
+[2023-06-19 17:51:32Z INFO Terminal] WRITE LINE: 2023-06-19 17:51:32Z: Listening for Jobs
+[2023-06-19 17:51:32Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-06-19 18:21:38Z INFO MessageListener] No message retrieved from session '012e9069-5b29-4675-ae0d-52bcbeecfd62' within last 30 minutes.
+[2023-06-19 18:46:43Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2023-06-19 18:46:44Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-06-19 18:51:45Z INFO MessageListener] No message retrieved from session '012e9069-5b29-4675-ae0d-52bcbeecfd62' within last 30 minutes.
+[2023-06-19 19:21:50Z INFO MessageListener] No message retrieved from session '012e9069-5b29-4675-ae0d-52bcbeecfd62' within last 30 minutes.
+[2023-06-19 19:41:53Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2023-06-19 19:41:53Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-06-19 19:51:55Z INFO MessageListener] No message retrieved from session '012e9069-5b29-4675-ae0d-52bcbeecfd62' within last 30 minutes.
+[2023-06-19 20:22:01Z INFO MessageListener] No message retrieved from session '012e9069-5b29-4675-ae0d-52bcbeecfd62' within last 30 minutes.
+[2023-06-19 20:30:36Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2023-06-19 20:30:36Z INFO MessageListener] Message '1' received from session '012e9069-5b29-4675-ae0d-52bcbeecfd62'.
+[2023-06-19 20:30:36Z INFO Runner] Received job message of length 23500 from service, with hash 'c97abbb4ba2cc18c45b67cf0678822c8cfc1a1accd1f084ce4fb6f0aebd0003e'
+[2023-06-19 20:30:36Z INFO JobDispatcher] Job request 13 for plan 3856943a-c0e5-4808-876f-38b1befa533d job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2023-06-19 20:30:36Z INFO JobDispatcher] Pull OrchestrationId 3856943a-c0e5-4808-876f-38b1befa533d.deploy.__default from JWT claims
+[2023-06-19 20:30:36Z INFO Terminal] WRITE LINE: 2023-06-19 20:30:36Z: Running job: deploy
+[2023-06-19 20:30:36Z INFO JobDispatcher] Start renew job request 13 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 20:30:37Z INFO JobDispatcher] Successfully renew job request 13, job is valid till 6/19/2023 8:40:37 PM
+[2023-06-19 20:30:37Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper] Starting process:
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper]   File name: '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin/Runner.Worker'
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 109 112'
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper]   Working directory: '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-06-19 20:30:37Z INFO ProcessInvokerWrapper] Process started with process id 45201, waiting for process exit.
+[2023-06-19 20:30:37Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 20:30:37Z INFO ProcessChannel] Sending message of length 23500, with hash 'c97abbb4ba2cc18c45b67cf0678822c8cfc1a1accd1f084ce4fb6f0aebd0003e'
+[2023-06-19 20:30:37Z INFO JobNotification] Entering JobStarted Notification
+[2023-06-19 20:30:37Z INFO JobNotification] Entering StartMonitor
+[2023-06-19 20:30:53Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-19 20:30:53Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-19 20:30:53Z INFO ProcessInvokerWrapper] Finished process 45201 with exit code 100, and elapsed time 00:00:16.2924287.
+[2023-06-19 20:30:53Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 100
+[2023-06-19 20:30:53Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Succeeded
+[2023-06-19 20:30:53Z INFO Terminal] WRITE LINE: 2023-06-19 20:30:53Z: Job deploy completed with result: Succeeded
+[2023-06-19 20:30:53Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 20:30:53Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 13.
+[2023-06-19 20:30:53Z INFO JobNotification] Entering JobCompleted Notification
+[2023-06-19 20:30:53Z INFO JobNotification] Entering EndMonitor
+[2023-06-19 20:37:18Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2023-06-19 20:37:19Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-06-19 21:00:43Z INFO MessageListener] No message retrieved from session '012e9069-5b29-4675-ae0d-52bcbeecfd62' within last 30 minutes.
+[2023-06-19 21:04:02Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2023-06-19 21:04:02Z INFO MessageListener] Message '2' received from session '012e9069-5b29-4675-ae0d-52bcbeecfd62'.
+[2023-06-19 21:04:02Z INFO Runner] Received job message of length 22420 from service, with hash '80f7ef5cc0acafc7bfaa58361acc8dc80fbdf7925706059d662cc96a2debe6ba'
+[2023-06-19 21:04:02Z INFO JobDispatcher] Job request 17 for plan c6b92137-e66d-4bf9-9689-ae9346a821a7 job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2023-06-19 21:04:02Z INFO JobDispatcher] Pull OrchestrationId c6b92137-e66d-4bf9-9689-ae9346a821a7.deploy.__default from JWT claims
+[2023-06-19 21:04:02Z INFO JobDispatcher] Job request e07742bd-189a-5079-918b-43f8b2f94b89 processed succeed.
+[2023-06-19 21:04:02Z INFO Terminal] WRITE LINE: 2023-06-19 21:04:02Z: Running job: deploy
+[2023-06-19 21:04:02Z INFO JobDispatcher] Start renew job request 17 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 21:04:03Z INFO JobDispatcher] Successfully renew job request 17, job is valid till 6/19/2023 9:14:03 PM
+[2023-06-19 21:04:03Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper] Starting process:
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper]   File name: '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin/Runner.Worker'
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 109 112'
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper]   Working directory: '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-06-19 21:04:03Z INFO ProcessInvokerWrapper] Process started with process id 50145, waiting for process exit.
+[2023-06-19 21:04:03Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 21:04:03Z INFO ProcessChannel] Sending message of length 22420, with hash '80f7ef5cc0acafc7bfaa58361acc8dc80fbdf7925706059d662cc96a2debe6ba'
+[2023-06-19 21:04:03Z INFO JobNotification] Entering JobStarted Notification
+[2023-06-19 21:04:03Z INFO JobNotification] Entering StartMonitor
+[2023-06-19 21:04:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-19 21:04:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-19 21:04:47Z INFO ProcessInvokerWrapper] Finished process 50145 with exit code 102, and elapsed time 00:00:44.5894603.
+[2023-06-19 21:04:47Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 102
+[2023-06-19 21:04:47Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Failed
+[2023-06-19 21:04:47Z INFO Terminal] WRITE LINE: 2023-06-19 21:04:47Z: Job deploy completed with result: Failed
+[2023-06-19 21:04:47Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 21:04:47Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 17.
+[2023-06-19 21:04:47Z INFO JobNotification] Entering JobCompleted Notification
+[2023-06-19 21:04:47Z INFO JobNotification] Entering EndMonitor
+[2023-06-19 21:07:12Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2023-06-19 21:07:12Z INFO MessageListener] Message '3' received from session '012e9069-5b29-4675-ae0d-52bcbeecfd62'.
+[2023-06-19 21:07:12Z INFO Runner] Received job message of length 22376 from service, with hash 'd1e594677d4d0f31c598e2e5acced6166105a08481fbae06d9c45e485839303c'
+[2023-06-19 21:07:12Z INFO JobDispatcher] Job request 18 for plan 657d105d-7783-43fe-8ac1-2b11a7a60e3f job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2023-06-19 21:07:12Z INFO JobDispatcher] Pull OrchestrationId 657d105d-7783-43fe-8ac1-2b11a7a60e3f.deploy.__default from JWT claims
+[2023-06-19 21:07:12Z INFO JobDispatcher] Job request e07742bd-189a-5079-918b-43f8b2f94b89 processed succeed.
+[2023-06-19 21:07:12Z INFO Terminal] WRITE LINE: 2023-06-19 21:07:12Z: Running job: deploy
+[2023-06-19 21:07:12Z INFO JobDispatcher] Start renew job request 18 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 21:07:12Z INFO JobDispatcher] Successfully renew job request 18, job is valid till 6/19/2023 9:17:12 PM
+[2023-06-19 21:07:12Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper] Starting process:
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper]   File name: '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin/Runner.Worker'
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 109 112'
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper]   Working directory: '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-06-19 21:07:12Z INFO ProcessInvokerWrapper] Process started with process id 51122, waiting for process exit.
+[2023-06-19 21:07:12Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 21:07:12Z INFO ProcessChannel] Sending message of length 22376, with hash 'd1e594677d4d0f31c598e2e5acced6166105a08481fbae06d9c45e485839303c'
+[2023-06-19 21:07:12Z INFO JobNotification] Entering JobStarted Notification
+[2023-06-19 21:07:12Z INFO JobNotification] Entering StartMonitor
+[2023-06-19 21:07:19Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-19 21:07:19Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-19 21:07:19Z INFO ProcessInvokerWrapper] Finished process 51122 with exit code 102, and elapsed time 00:00:06.7252224.
+[2023-06-19 21:07:19Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 102
+[2023-06-19 21:07:19Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Failed
+[2023-06-19 21:07:19Z INFO Terminal] WRITE LINE: 2023-06-19 21:07:19Z: Job deploy completed with result: Failed
+[2023-06-19 21:07:19Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 21:07:19Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 18.
+[2023-06-19 21:07:19Z INFO JobNotification] Entering JobCompleted Notification
+[2023-06-19 21:07:19Z INFO JobNotification] Entering EndMonitor
+[2023-06-19 21:07:58Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/.credentials_rsaparams
+[2023-06-19 21:07:58Z INFO MessageListener] Message '4' received from session '012e9069-5b29-4675-ae0d-52bcbeecfd62'.
+[2023-06-19 21:07:58Z INFO Runner] Received job message of length 22364 from service, with hash 'bea8d8bd70a32ca611ea364a34d0d24b48fb8975bf937a89adf48a98c180b33b'
+[2023-06-19 21:07:58Z INFO JobDispatcher] Job request 19 for plan 973fa1f0-3a53-4562-8ce2-ae8f575f1f14 job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2023-06-19 21:07:58Z INFO JobDispatcher] Pull OrchestrationId 973fa1f0-3a53-4562-8ce2-ae8f575f1f14.deploy.__default from JWT claims
+[2023-06-19 21:07:58Z INFO JobDispatcher] Job request e07742bd-189a-5079-918b-43f8b2f94b89 processed succeed.
+[2023-06-19 21:07:58Z INFO Terminal] WRITE LINE: 2023-06-19 21:07:58Z: Running job: deploy
+[2023-06-19 21:07:58Z INFO JobDispatcher] Start renew job request 19 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 21:07:58Z INFO JobDispatcher] Successfully renew job request 19, job is valid till 6/19/2023 9:17:58 PM
+[2023-06-19 21:07:58Z INFO HostContext] Well known directory 'Bin': '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper] Starting process:
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper]   File name: '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin/Runner.Worker'
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 109 112'
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper]   Working directory: '/mnt/SSD1/mrepos/github.com/wilsonify/self-hosted-runner/actions-runner/bin'
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-06-19 21:07:58Z INFO ProcessInvokerWrapper] Process started with process id 51641, waiting for process exit.
+[2023-06-19 21:07:58Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 21:07:58Z INFO ProcessChannel] Sending message of length 22364, with hash 'bea8d8bd70a32ca611ea364a34d0d24b48fb8975bf937a89adf48a98c180b33b'
+[2023-06-19 21:07:58Z INFO JobNotification] Entering JobStarted Notification
+[2023-06-19 21:07:58Z INFO JobNotification] Entering StartMonitor
+[2023-06-19 21:08:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-19 21:08:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-06-19 21:08:09Z INFO ProcessInvokerWrapper] Finished process 51641 with exit code 100, and elapsed time 00:00:11.3384474.
+[2023-06-19 21:08:09Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 100
+[2023-06-19 21:08:09Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Succeeded
+[2023-06-19 21:08:09Z INFO Terminal] WRITE LINE: 2023-06-19 21:08:09Z: Job deploy completed with result: Succeeded
+[2023-06-19 21:08:09Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-06-19 21:08:09Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 19.
+[2023-06-19 21:08:09Z INFO JobNotification] Entering JobCompleted Notification
+[2023-06-19 21:08:09Z INFO JobNotification] Entering EndMonitor

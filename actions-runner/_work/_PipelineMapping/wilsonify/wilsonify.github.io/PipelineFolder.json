@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "wilsonify/wilsonify.github.io",
+  "pipelineDirectory": "wilsonify.github.io",
+  "workspaceDirectory": "wilsonify.github.io/wilsonify.github.io",
+  "repositories": {
+    "wilsonify/wilsonify.github.io": {
+      "repositoryPath": "wilsonify.github.io/wilsonify.github.io",
+      "lastRunOn": "06/19/2023 16:30:38 -04:00"
+    }
+  },
+  "lastRunOn": "06/19/2023 17:08:00 -04:00"
+}

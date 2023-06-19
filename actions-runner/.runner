@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "thom-asus",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/zyKKJ24ydiARkUg7LXufcYVhxbLdKxvFBenjsBwOVsXGma09ut",
+  "gitHubUrl": "https://github.com/wilsonify/wilsonify.github.io",
+  "workFolder": "_work"
+}
